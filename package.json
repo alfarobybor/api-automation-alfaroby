@@ -1,0 +1,26 @@
+{
+  "name": "api-automation-alfaroby",
+  "version": "1.0.0",
+  "description": "api automation project using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfarobybor/api-automation-alfaroby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfarobybor/api-automation-alfaroby/issues"
+  },
+  "homepage": "https://github.com/alfarobybor/api-automation-alfaroby#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "dummy.js": "^1.0.4"
+  }
+}
